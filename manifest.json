@@ -1,0 +1,10 @@
+{
+  "Name": "DoNotOverwater",
+  "Author": "Bjarne Kniebel",
+  "Version": "1.0.0",
+  "Description": "Prevents you from watering a tile you already watered",
+  "UniqueID": "bjarnekniebel.donotoverwater",
+  "EntryDll": "donotoverwater.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
